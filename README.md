@@ -6,6 +6,7 @@
 - **技术栈**：原生 HTML / CSS / JavaScript（无框架、无构建、无 API Key）
 - **形态**：单文件页面（`index.html` 已内联全部样式、脚本与壁纸）
 - **作者**：Stellar149476
+- **在线体验：https://stellar149476.github.io/Weather-assistant/**
 
 ---
 
@@ -197,4 +198,8 @@ python -m http.server 8000
 ---
 
 **注意：本项目严禁商用，倒卖，牟利。欢迎知情人士举报！**
+
+---
+
+
 **本项目部分资源来源于互联网，侵删！**
